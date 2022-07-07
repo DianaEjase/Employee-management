@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {},
+    {
+      "firstname": "Terry ",
+      "lastname": "Wolf",
+      "id": "2",
+      "jobtitle": "Corporate Mobility Strategist",
+      "salary": "445.63",
+      "motto": "\"If we hack the feed, we can get to the PNG program through the cross-platform JSON protocol!\""
+    },
+    {
+      "firstname": "gkADfgg",
+      "lastname": "",
+      "id": "MJ1G2WZ",
+      "jobtitle": "",
+      "salary": "",
+      "motto": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
